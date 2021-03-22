@@ -1,5 +1,6 @@
 function myFunction(){
     alert("Hello!");
-    document.body.style.backgroundColor; "green"
+    dodument.body.style.background-color;"green"
+    window.open("https://www.youtube.com");
 }
     
